@@ -1,8 +1,10 @@
-#include <iostream>
+#include "Cars.h"
 
-int main() {
 
-	std::cout << "Hello word\n";
+int main()
+{
+	TCras menu;
+	menu.Menu_1();
 
 	return 0;
 }
