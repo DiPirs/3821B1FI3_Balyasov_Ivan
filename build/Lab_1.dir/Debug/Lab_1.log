@@ -1,7 +1,0 @@
-﻿  Cars.cpp
-  Economy.cpp
-  Renault.cpp
-  Vaz.cpp
-  Создание кода...
-C:\Users\SolEk\Desktop\Labach_code\3821B1FI3_Balyasov_Ivan\Economy.cpp(48): warning C4700: использована неинициализированная локальная переменная "answer"
-  Lab_1.vcxproj -> C:\Users\SolEk\Desktop\Labach_code\3821B1FI3_Balyasov_Ivan\build\Debug\Lab_1.exe

@@ -1,3 +1,0 @@
-C:/Users/SolEk/Desktop/Labach_code/3821B1FI3_Balyasov_Ivan/build/CMakeFiles/Lab_1.dir
-C:/Users/SolEk/Desktop/Labach_code/3821B1FI3_Balyasov_Ivan/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/SolEk/Desktop/Labach_code/3821B1FI3_Balyasov_Ivan/build/CMakeFiles/ZERO_CHECK.dir
